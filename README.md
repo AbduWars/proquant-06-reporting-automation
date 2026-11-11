@@ -53,19 +53,19 @@ The manual report depends on one person, a chain of spreadsheets and a night of 
 
 ## Deliverables
 
-Everything opens from **one file**, `00_START_HERE`, in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them.
+Everything opens from **one file**, *Start here* (no. 1), in any browser: pick your role, read each document, watch the presentation, search the tables and use the dashboard. Each document has one reader and one job, and the numbers agree across all of them. PowerPoint and Excel files open in the browser through Microsoft's free online viewer; *download* gives the original file.
 
 | # | File | Format | What it is |
 |---|---|---|---|
-| 00 | [Start here](https://abduwars.github.io/proquant-06-reporting-automation/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
-| 01 | [Report](sample-delivery/01_DemoClient_ReportingAutomation_Report_v1.0_20261111.pdf) | PDF | Monthly management report (~14 pages): decision, KPIs, commentary, comparisons, regions, products, controls, history, parity, business case |
-| 02 | [Summary](sample-delivery/02_DemoClient_ReportingAutomation_Summary_v1.0_20261111.pdf) | PDF | One page: the decision, with no charts |
-| 03 | [Presentation](sample-delivery/03_DemoClient_ReportingAutomation_Presentation_v1.0_20261111.pptx) | PowerPoint | **A full talk**: 13 slides with editable charts and speaker notes, ready to present |
-| 04 | [Results Workbook](sample-delivery/04_DemoClient_ReportingAutomation_ResultsWorkbook_v1.0_20261111.xlsx) | Excel | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
-| 05 | [Methodology](sample-delivery/05_DemoClient_ReportingAutomation_Methodology_v1.0_20261111.pdf) | PDF | How the process works (for auditors and the client's IT) |
-| 06 | [Handover Note](sample-delivery/06_DemoClient_ReportingAutomation_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, this month, acceptance, what we need every month |
-| 07 | [Runbook](sample-delivery/07_DemoClient_ReportingAutomation_Runbook_v1.0_20261111.pdf) | PDF | **Operations runbook**: monthly routine, exit codes, what each control means and what to do |
-| 11 | [Dashboard](https://abduwars.github.io/proquant-06-reporting-automation/sample-delivery/11_DemoClient_ReportingAutomation_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
+| 1 | [Start here](https://abduwars.github.io/proquant-06-reporting-automation/sample-delivery/00_START_HERE_DemoClient.html) | HTML (opens in any browser) | **One file that holds it all**: every document, the presentation, the tables and the dashboard |
+| 2 | [Report](sample-delivery/01_DemoClient_ReportingAutomation_Report_v1.0_20261111.pdf) | PDF | Monthly management report (~14 pages): decision, KPIs, commentary, comparisons, regions, products, controls, history, parity, business case |
+| 3 | [Summary](sample-delivery/02_DemoClient_ReportingAutomation_Summary_v1.0_20261111.pdf) | PDF | One page: the decision, with no charts |
+| 4 | [Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-06-reporting-automation%2Fsample-delivery%2F03_DemoClient_ReportingAutomation_Presentation_v1.0_20261111.pptx) | PowerPoint · [download](https://raw.githubusercontent.com/AbduWars/proquant-06-reporting-automation/main/sample-delivery/03_DemoClient_ReportingAutomation_Presentation_v1.0_20261111.pptx) | **A full talk**: 13 slides with editable charts and speaker notes, ready to present |
+| 5 | [Results Workbook](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fabduwars.github.io%2Fproquant-06-reporting-automation%2Fsample-delivery%2F04_DemoClient_ReportingAutomation_ResultsWorkbook_v1.0_20261111.xlsx) | Excel · [download](https://raw.githubusercontent.com/AbduWars/proquant-06-reporting-automation/main/sample-delivery/04_DemoClient_ReportingAutomation_ResultsWorkbook_v1.0_20261111.xlsx) | **The working file**: a Control panel with live formulas, and every table. Opens on a **Read me** sheet with a linked index |
+| 6 | [Methodology](sample-delivery/05_DemoClient_ReportingAutomation_Methodology_v1.0_20261111.pdf) | PDF | How the process works (for auditors and the client's IT) |
+| 7 | [Handover Note](sample-delivery/06_DemoClient_ReportingAutomation_HandoverNote_v1.0_20261111.pdf) | PDF | What was delivered, this month, acceptance, what we need every month |
+| 8 | [Runbook](sample-delivery/07_DemoClient_ReportingAutomation_Runbook_v1.0_20261111.pdf) | PDF | **Operations runbook**: monthly routine, exit codes, what each control means and what to do |
+| 9 | [Dashboard](https://abduwars.github.io/proquant-06-reporting-automation/sample-delivery/11_DemoClient_ReportingAutomation_Dashboard_v1.0_20261111.html) | HTML (opens in any browser) | **Interactive dashboard in one file**: opens in any browser, explores the data, tries what-ifs and reads the updated tracker |
 
 **Delivered to clients only, not in this showcase:** scheduler pack, regional bulletins and email drafts.
 
